@@ -6,7 +6,7 @@ This repository contains my hands-on networking labs, configurations, troublesho
 
 The repository will continue to grow as I progress from foundational networking concepts into advanced routing, switching, automation, and network programmability.
 
-# 🎯 Purpose
+# Purpose
 
 The purpose of this repository is to document my practical development as a network engineer.
 
@@ -22,7 +22,7 @@ The repository serves as:
 
 ---
 
-# 🌐 Networking Labs
+# Networking Labs
 
 The networking sections contain simulated network environments and configurations covering a range of networking technologies.
 
@@ -51,7 +51,7 @@ Most labs are built using Cisco Packet Tracer, with additional technologies and 
 
 ---
 
-# 🔧 Lab Documentation
+# Lab Documentation
 
 Each major lab is documented where possible with:
 
@@ -82,7 +82,7 @@ The documentation may include:
 
 ---
 
-# 🛠️ Troubleshooting
+# Troubleshooting
 
 Networking is not only about configuring devices correctly. A major part of network engineering is understanding what happens when something doesn't work.
 
@@ -105,7 +105,7 @@ The goal is to document not only **what fixed the problem**, but also **how the 
 
 ---
 
-# 🤖 Network Automation
+# Network Automation
 
 As my networking knowledge develops, this repository also contains projects focused on network automation and programmability.
 
@@ -146,7 +146,7 @@ The objective is to move beyond manually configuring individual network devices 
 
 ---
 
-# 🧪 Projects
+# Projects
 
 The Projects section contains larger practical implementations that combine multiple networking concepts.
 
@@ -165,7 +165,7 @@ These projects are intended to demonstrate how individual networking concepts ca
 
 ---
 
-# 📈 Learning Progression
+# Learning Progression
 
 This repository represents an ongoing learning journey.
 
@@ -191,7 +191,7 @@ New labs and projects will be added as new technologies and concepts are studied
 
 ---
 
-# 💻 Technologies
+# Technologies
 
 ### Networking
 
@@ -228,7 +228,7 @@ New labs and projects will be added as new technologies and concepts are studied
 
 ---
 
-# 📖 Documentation Philosophy
+# Documentation Philosophy
 
 For each lab, I aim to document three things:
 
@@ -248,7 +248,7 @@ This approach is intended to develop practical troubleshooting and engineering s
 
 ---
 
-# 🚀 Future Development
+# Future Development
 
 This repository will continue to evolve as I develop my networking and automation skills.
 
@@ -270,7 +270,7 @@ Future areas may include:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 The configurations and topologies in this repository are primarily created for educational, laboratory, and testing purposes.
 
@@ -278,7 +278,7 @@ Configurations should be reviewed and adapted before being used in production en
 
 ---
 
-## 👨‍💻 About
+## About
 
 This repository represents my ongoing practical development in network engineering, with an emphasis on networking fundamentals, advanced routing and switching, troubleshooting, automation, and network programmability.
 
