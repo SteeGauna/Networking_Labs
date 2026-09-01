@@ -6,52 +6,6 @@ This repository contains my hands-on networking labs, configurations, troublesho
 
 The repository will continue to grow as I progress from foundational networking concepts into advanced routing, switching, automation, and network programmability.
 
----
-
-## 📚 Repository Structure
-
-```text
-network-engineering-labs/
-│
-├── CCNA/
-│   ├── Basic-Switching/
-│   ├── VLANs/
-│   ├── Trunking/
-│   ├── STP/
-│   ├── Inter-VLAN-Routing/
-│   ├── OSPF/
-│   └── ACL/
-│
-├── CCNP/
-│   ├── Advanced-OSPF/
-│   ├── Multi-Area-OSPF/
-│   ├── Route-Summarization/
-│   ├── Redistribution/
-│   ├── BGP/
-│   └── Advanced-Switching/
-│
-├── Troubleshooting/
-│   ├── Routing/
-│   ├── Switching/
-│   ├── OSPF/
-│   └── Network-Failures/
-│
-├── Network-Automation/
-│   ├── Python/
-│   ├── Netmiko/
-│   ├── NETCONF/
-│   ├── RESTCONF/
-│   └── Ansible/
-│
-└── Projects/
-    ├── Network-Backup/
-    ├── VLAN-Automation/
-    ├── Device-Inventory/
-    └── Network-Monitoring/
-```
-
----
-
 # 🎯 Purpose
 
 The purpose of this repository is to document my practical development as a network engineer.
