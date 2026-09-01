@@ -1,4 +1,3 @@
-# Packet-Tracer-Labs
 # Network Engineering Labs & Projects
 
 Welcome to my network engineering repository.
